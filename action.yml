@@ -1,5 +1,7 @@
 name: "hello-world-docker-action"
 description: "Greet someone and record the time"
+icon: "bell"
+color: "red"
 inputs:
   who-to-greet:
     description: "Who to greet"
